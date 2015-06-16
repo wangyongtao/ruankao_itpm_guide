@@ -10,3 +10,7 @@ Information_system_project_management_examination(信息系统项目管理)
 - 知识科目采用单项选择题，考试150分钟，考生需要用2B铅笔涂填答题卡；
 - 应用技术科目采用问答题，考试时间150分钟；上机考试时间为150分钟；
 - 案例分析科目采用问答题，考试时间为90分钟；论文科目考试时间为120分钟。各个科目的满分均为75分。
+
+软考官网：http://www.ruankao.org.cn/jsj/cms/index.html  
+
+
