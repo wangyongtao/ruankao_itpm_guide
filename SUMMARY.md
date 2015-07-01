@@ -1,5 +1,5 @@
 # Summary
-* [introduction 考试简介与考试分析](chapter1/README.md)
+* [introduction 考试简介与考试分析](introduction/README.md)
 * [chapter01 信息系统基础知识](chapter01/README.md)
   * [1.1](chapter01/information_systems.md)
   * [1.2](chapter01/software_engineering.md)
