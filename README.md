@@ -1,6 +1,6 @@
 信息系统项目管理师备考指南 > README
 
-> Information System Project Management Division Examination Guide
+> Information System Project Management Division Examination Guide  
 > 信息系统项目管理师考试备考指南
 
 *跟着考试大纲来复习*
@@ -10,8 +10,8 @@
 
 软考官网:http://www.ruankao.org.cn/jsj/cms/index.html  
 在线阅读: 
-[Gitbook](http://wangyongtao.gitbooks.io/information_system_project_management/)
-[Github](https://github.com/wangyongtao/information_system_project_management/)
+[Gitbook](http://wangyongtao.gitbooks.io/information_system_project_management/)  
+[Github](https://github.com/wangyongtao/information_system_project_management/) 
 
 版本：V0.1
 
