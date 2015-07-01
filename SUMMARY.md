@@ -1,3 +1,35 @@
 # Summary
+* [Chapter0 考试简介与考试分析](part1/README.md)
 
-* [第一章 信息系统基础知识](信息系统基础知识.md)
+* [Chapter01 信息系统基础知识](Chapter1/README.md)
+  * [1.1](Chapter1/information_systems.md)
+  * [1.2](Chapter1/software_engineering.md)
+  * [1.3](Chapter1/computer_networks.md)
+
+* [Chapter02 信息系统项目管理](Chapter2/README.md)
+ 
+
+* [Chapter03 信息系统项目管理高级知识](Chapter3/README.md)
+
+* [Chapter04 信息化基础知识](Chapter4/README.md)
+
+* [Chapter05 信息安全知识](Chapter5/README.md)
+
+* [Chapter06 法律法规和标准规范](Chapter6/README.md)
+  * [6.1 合同法](Chapter6/contract_law.md)
+  * [6.2 招投标法](Chapter6/tenders_andt_bids_law.md)
+  * [6.3 著作权法](part1/copyright_law.md)
+
+* [Chapter07 管理科学知识](Chapter7/README.md)
+
+* [Chapter08 职业道德](Chapter8/README.md)
+
+* [Chapter09 专业英语](Chapter9/README.md)
+* [Chapter10 案例分析](Chapter9/README.md)
+* [Chapter11 论文](Chapter9/README.md)
+
+* [Chapter13 真题解析](Chapter10/README.md)
+  * [综合知识试题](part2/feedback_please.md)
+  * [案例分析试题](part2/better_tools.md)
+  * [论文试题](part2/better_tools.md)
+
