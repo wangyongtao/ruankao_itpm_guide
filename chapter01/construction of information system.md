@@ -1,1 +1,0 @@
-construction of information system
