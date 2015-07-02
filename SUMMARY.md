@@ -4,7 +4,7 @@
   * [信息系统](chapter01/information_system.md)
   * [信息系统建设](chapter01/construction_of_information_system.md)
   * [软件工程知识](chapter01/software_engineering.md)
-  * [软件构件技术知识](chapter01/software_components.mg)
+  * [软件构件技术知识](chapter01/software_components.md)
   * [软件体系结构](chapter01/software_architecture.md)
   * [面向对象系统分析与设计](chapter01/object_oriented_technology.md)
   * [典型应用集成技术](chapter01/enterprise_application_intergration_technology.md)
