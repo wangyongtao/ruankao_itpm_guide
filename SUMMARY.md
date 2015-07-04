@@ -1,5 +1,4 @@
 # Summary
-* [考试简介与考试分析](introduction/README.md)
 * [信息系统基础知识](chapter01/README.md)
   * [信息系统](chapter01/section1.01.md)
   * [信息系统建设](chapter01/section1.02.md)
@@ -42,3 +41,5 @@
 * [案例分析](chapter10/README.md)
 * [论文](chapter11/README.md)
 * [真题解析](chapter12/README.md)
+* [附录](references/README.md)
+
