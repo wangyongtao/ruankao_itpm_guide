@@ -1,1 +1,0 @@
-object_oriented_technology
