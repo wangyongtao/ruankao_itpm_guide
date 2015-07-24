@@ -60,4 +60,15 @@
 
 information system
 
+【试题解析】
+The connection between two networks to from an Internet is handled by a machine known as a(   )
+A、bridge
+B、server
+C、router
+D、switch
+参考答案:选择C.
+
+
+
+
 
