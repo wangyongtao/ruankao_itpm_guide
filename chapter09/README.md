@@ -1,10 +1,11 @@
 信息系统项目管理师考试指南 > 专业英语
 
-> ### 大纲要求
+## 大纲要求
+
 >  9．专业英语 
 > · 熟练阅读并准确理解相关领域的英文文献 
 
-
+## 知识点
 
 项目管理: Project Management
 
@@ -60,13 +61,12 @@
 
 information system
 
-【试题解析】
-The connection between two networks to from an Internet is handled by a machine known as a(   )
-A、bridge
-B、server
-C、router
-D、switch
-参考答案:选择C.
+## 试题解析
+
+The connection between two networks to from an Internet is handled by a machine known as a (   )
+A、bridge B、server C、router D、switch
+
+参考答案: 选择C.
 
 
 

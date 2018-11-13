@@ -38,8 +38,8 @@
 * [管理科学知识](chapter07/README.md)
 * [职业道德](chapter08/README.md)
 * [专业英语](chapter09/README.md)
-* [案例分析](chapter10/README.md)
-* [论文](chapter11/README.md)
-* [真题解析](chapter12/README.md)
-* [附录](references/README.md)
+* [科目2-信息系统项目管理案例分析](chapter10/README.md)
+* [科目3-信息系统项目管理论文](chapter11/README.md)
+* [题型举例](chapter12/README.md)
+* [真题解析](chapter13/README.md)
 
