@@ -58,8 +58,10 @@
 
 ### 参考链接：
 
-[中国计算机技术职业资格网](http://www.ruankao.org.cn/jsj/cms/index.html) 软考官网
+[中国计算机技术职业资格网](http://www.ruankao.org.cn/jsj/cms/index.html) (软考官网)
 
-[信管网](http://www.cnitpm.com/) 
+[信管网](http://www.cnitpm.com/) (备考辅导等)
+
+[希赛网软考](https://www.educity.cn/rk/) (备考辅导等)
 
 
