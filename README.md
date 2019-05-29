@@ -3,7 +3,7 @@
 > Information System Project Management Division Examination Guide  
 > 信息系统项目管理师考试备考指南
 
-*跟着考试大纲来复习*
+*跟着考试大纲来复习* 查看[目录](./SUMMARY.md)
  
 
 本文档是笔者备考软考信管考试用的，编写初衷是为了强化自己备考，强化记忆的。
